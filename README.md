@@ -13,7 +13,7 @@ Daftar Project ( api | github ) indonesia.
 
 ## Daftar Api
 
-| Nama App        | Developer | URL | Deskripsi | `key` |
+| Nama Api        | Developer | URL | Deskripsi | `key` |
 | --------------- |:---------:|:---:|:----------|:------:|
 | Hexaminate | [Hexaminate](https://github.com/hexaminate) | [Link](https://github.com/hexaminate) | HexaMinate api's untuk menambahkan element pada application / backend yang anda buat | `yes` |
 
@@ -26,7 +26,7 @@ Daftar Project ( api | github ) indonesia.
 
 
 ## Daftar Library
-| Nama App        | Developer | URL | Deskripsi | `type` | 
+| Nama Library        | Developer | URL | Deskripsi | `type` | 
 | --------------- |:---------:|:---:|:----------|:------:| 
 | Angka-terbilang-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-terbilang-js) | Mengkonversi angka ke dalam bilangan bahasa Indonesia. Misalnya dari 123, menjadi seratus dua puluh tiga.n| `Utilities` |
 | Angka-rupiah-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-rupiah-js) | Mengkonversi angka ke dalam format penulisan mata uang rupiah | `Utilities` |
@@ -38,8 +38,11 @@ Daftar Project ( api | github ) indonesia.
 
 
 ## Daftar Robot
-| Nama App        | Developer | URL | Deskripsi | `platform` | 
+| Nama Robot        | Developer | URL | Deskripsi | `platform` | 
 | --------------- |:---------:|:---:|:----------|:------:| 
+| Azka Userbot Instagram | [Azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azka-userbot-instagram) | Simple Userbot Instagram untuk belajar membuat bot Instagram | `instagram` | 
+| Azka Userbot Telegram | [Azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azka-userbot-telegram) | Simple Userbot Telegram untuk belajar membuat bot telegram | `Telegram` | 
+| Azka Userbot Whatsapp | [Azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azka-userbot-whatsapp) | Simple Userbot Whatsapp untuk belajar membuat bot Whatsapp | `Whatsapp` | 
 | File Sharing Man | [mrismanaziz](https://github.com/mrismanaziz) | [Link](https://github.com/mrismanaziz/File-Sharing-Man) | Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus. Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. innocent. | `Telegram` | 
 
 
