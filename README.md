@@ -15,7 +15,7 @@ Daftar Project ( api | github ) indonesia.
 
 | Nama App        | Developer | URL | Deskripsi | `key` |
 | --------------- |:---------:|:---:|:----------|:------:|
-| Azkagram | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azkagram) | Application Telegram berbasis flutter menggunakan [tdlib](https://github.com/tdlib/td), Support automation userbot and bot | `no` |
+| Hexaminate | [Hexaminate](https://github.com/hexaminate) | [Link](https://github.com/hexaminate) | HexaMinate api's untuk menambahkan element pada application / backend yang anda buat | `yes` |
 
 
 ## Daftar Application
