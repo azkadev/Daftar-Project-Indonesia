@@ -13,21 +13,22 @@ Daftar Project ( api | github ) indonesia.
 
 ## Daftar Api
 
-| Nama Api        | Developer | URL | Deskripsi | `key` |
-| --------------- |:---------:|:---:|:----------|:------:|
-| Face API | [Irfan Akbari Habibi](https://github.com/Irfanakbari) | [Link](https://github.com/Irfanakbari/face-recognition) |  API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) | `no` |
-| Hexaminate | [Hexaminate](https://github.com/hexaminate) | [Link](https://github.com/hexaminate) | HexaMinate api's untuk menambahkan element pada application / backend yang anda buat | `yes` |
+| Nama Api        | Developer | URL | Deskripsi | `key` | `Category` |
+| --------------- |:---------:|:---:|:----------|:------:|:------:|
+| Face API | [Irfan Akbari Habibi](https://github.com/Irfanakbari) | [Link](https://github.com/Irfanakbari/face-recognition) |  API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) | `no` | `Utilities` |
+| Hexaminate | [Hexaminate](https://github.com/hexaminate) | [Link](https://github.com/hexaminate) | HexaMinate api's untuk menambahkan element pada application / backend yang anda buat | `yes` | `Utilities` |
+| Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `yes` | `Financial` |
 
 
 ## Daftar Application
 
-| Nama App        | Developer | URL | Deskripsi | `type` |
+| Nama App        | Developer | URL | Deskripsi | `Category` |
 | --------------- |:---------:|:---:|:----------|:------:| 
 | Azkagram | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azkagram) | Application Telegram berbasis flutter menggunakan [tdlib](https://github.com/tdlib/td), Support automation userbot and bot | Social-Media |
 
 
 ## Daftar Library
-| Nama Library        | Developer | URL | Deskripsi | `type` | 
+| Nama Library        | Developer | URL | Deskripsi | `Category` | 
 | --------------- |:---------:|:---:|:----------|:------:| 
 | Angka-terbilang-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-terbilang-js) | Mengkonversi angka ke dalam bilangan bahasa Indonesia. Misalnya dari 123, menjadi seratus dua puluh tiga.n| `Utilities` |
 | Angka-rupiah-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-rupiah-js) | Mengkonversi angka ke dalam format penulisan mata uang rupiah | `Utilities` |
