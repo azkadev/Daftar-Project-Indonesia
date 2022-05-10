@@ -21,7 +21,9 @@ Daftar Project ( api | github ) indonesia.
 ## Daftar Application
 
 | Nama App        | Developer | URL | Deskripsi | `type` |
-| --------------- |:---------:|:---:|:----------|:------:|
+| --------------- |:---------:|:---:|:----------|:------:| 
+| Angka-terbilang-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-terbilang-js) | Mengkonversi angka ke dalam bilangan bahasa Indonesia. Misalnya dari 123, menjadi seratus dua puluh tiga.n| `Utilities` |
+| Angka-rupiah-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-rupiah-js) | Mengkonversi angka ke dalam format penulisan mata uang rupiah | `Utilities` |
 | Azkagram | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azkagram) | Application Telegram berbasis flutter menggunakan [tdlib](https://github.com/tdlib/td), Support automation userbot and bot | Social-Media |
 
 
