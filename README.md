@@ -31,6 +31,8 @@ Daftar Project ( api | github ) indonesia.
 | Angka-terbilang-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-terbilang-js) | Mengkonversi angka ke dalam bilangan bahasa Indonesia. Misalnya dari 123, menjadi seratus dua puluh tiga.n| `Utilities` |
 | Angka-rupiah-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-rupiah-js) | Mengkonversi angka ke dalam format penulisan mata uang rupiah | `Utilities` |
 | Brainly Scrapper | [defrindr](https://github.com/defrindr) | [Link](https://github.com/defrindr/brainly-scraper) | Library Untuk mencari jawaban soal dari website http://www.brainly.co.id/ | `scraper` | 
+| Hexaminate | [hexaminate](https://github.com/hexaminate) | [Link](https://github.com/HexaMinate/HexaMinate/tree/main/library/hexaminate) | Untuk mempermudah membuat application / backend | `utilities` |
+| Nextgen | [hexaminate](https://github.com/hexaminate) | [Link](https://github.com/HexaMinate/HexaMinate/tree/main/library/nextgen) | Untuk membuat application / bot / userbot pada platform nextgen | `social-media` | 
 | Telegram Client | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/telegram_client) | Library Telegram untuk membangun bot / userbot / application support [tdlib](https://github.com/tdlib/td) cross platform | Social-Media | 
 | Xendit Unofficial Dart | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/xendit) | Untuk mempermudah transaction xendit indonesia | `payment` | 
 
