@@ -22,14 +22,15 @@ Daftar Project ( api | github ) indonesia.
 
 | Nama App        | Developer | URL | Deskripsi | `type` |
 | --------------- |:---------:|:---:|:----------|:------:| 
-| Angka-terbilang-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-terbilang-js) | Mengkonversi angka ke dalam bilangan bahasa Indonesia. Misalnya dari 123, menjadi seratus dua puluh tiga.n| `Utilities` |
-| Angka-rupiah-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-rupiah-js) | Mengkonversi angka ke dalam format penulisan mata uang rupiah | `Utilities` |
 | Azkagram | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azkagram) | Application Telegram berbasis flutter menggunakan [tdlib](https://github.com/tdlib/td), Support automation userbot and bot | Social-Media |
 
 
 ## Daftar Library
 | Nama App        | Developer | URL | Deskripsi | `type` | 
 | --------------- |:---------:|:---:|:----------|:------:| 
+| Angka-terbilang-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-terbilang-js) | Mengkonversi angka ke dalam bilangan bahasa Indonesia. Misalnya dari 123, menjadi seratus dua puluh tiga.n| `Utilities` |
+| Angka-rupiah-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-rupiah-js) | Mengkonversi angka ke dalam format penulisan mata uang rupiah | `Utilities` |
+| Brainly Scrapper | [defrindr](https://github.com/defrindr) | [Link](https://github.com/defrindr/brainly-scraper) | Library Untuk mencari jawaban soal dari website http://www.brainly.co.id/ | `scraper` | 
 | Telegram Client | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/telegram_client) | Library Telegram untuk membangun bot / userbot / application support [tdlib](https://github.com/tdlib/td) cross platform | Social-Media | 
 
 
