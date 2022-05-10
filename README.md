@@ -15,7 +15,7 @@ Daftar Project ( api | github ) indonesia.
 
 | Nama Api        | Developer | URL | Deskripsi | `key` |
 | --------------- |:---------:|:---:|:----------|:------:|
-| Face API | Irfan Akbari Habibi | [Link](https://github.com/Irfanakbari/face-recognition) | `Aktif` |  API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) | Tidak |
+| Face API | (Irfan Akbari Habibi](https://github.com/Irfanakbari) | [Link](https://github.com/Irfanakbari/face-recognition) | `Aktif` |  API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) | Tidak |
 | Hexaminate | [Hexaminate](https://github.com/hexaminate) | [Link](https://github.com/hexaminate) | HexaMinate api's untuk menambahkan element pada application / backend yang anda buat | `yes` |
 
 
