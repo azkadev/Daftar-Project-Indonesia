@@ -9,6 +9,7 @@ Daftar Project ( api | github ) indonesia.
 - [Daftar Api](#daftar-api)
 - [Daftar Application](#daftar-application)
 - [Daftar Library](#daftar-library)
+- [Daftar Robot](#daftar-robot)
 
 ## Daftar Api
 
@@ -29,6 +30,11 @@ Daftar Project ( api | github ) indonesia.
 | --------------- |:---------:|:---:|:----------|:------:| 
 | Telegram Client | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/telegram_client) | Library Telegram untuk membangun bot / userbot / application support [tdlib](https://github.com/tdlib/td) cross platform | Social-Media | 
 
+
+## Daftar Robot
+| Nama App        | Developer | URL | Deskripsi | `platform` | 
+| --------------- |:---------:|:---:|:----------|:------:| 
+| File Sharing Man | [mrismanaziz](https://github.com/mrismanaziz) | [Link](https://github.com/mrismanaziz/File-Sharing-Man) | Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus. Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. innocent. | `Telegram` | 
 
 
 
