@@ -1,60 +1,104 @@
-# Daftar-Project-Indonesia
+IyBEYWZ0YXItUHJvamVjdC1JbmRvbmVzaWEKCkRhZnRhciBQcm9qZWN0ICgg
+YXBpIHwgZ2l0aHViICkgaW5kb25lc2lhLgoKCgojIyBEYWZ0YXIgSXNpIAoK
+LSBbRGFmdGFyIEFwaV0oI2RhZnRhci1hcGkpCi0gW0RhZnRhciBBcHBsaWNh
+dGlvbl0oI2RhZnRhci1hcHBsaWNhdGlvbikKLSBbRGFmdGFyIExpYnJhcnld
+KCNkYWZ0YXItbGlicmFyeSkKLSBbRGFmdGFyIFJvYm90XSgjZGFmdGFyLXJv
+Ym90KQoKIyMgRGFmdGFyIEFwaQoKfCBOYW1hIEFwaSAgICAgICAgfCBEZXZl
+bG9wZXIgfCBVUkwgfCBEZXNrcmlwc2kgfCBga2V5YCB8IGBDYXRlZ29yeWAg
+fAp8IC0tLS0tLS0tLS0tLS0tLSB8Oi0tLS0tLS0tLTp8Oi0tLTp8Oi0tLS0t
+LS0tLS18Oi0tLS0tLTp8Oi0tLS0tLTp8CnwgRmFjZSBBUEkgfCBbSXJmYW4g
+QWtiYXJpIEhhYmliaV0oaHR0cHM6Ly9naXRodWIuY29tL0lyZmFuYWtiYXJp
+KSB8IFtMaW5rXShodHRwczovL2dpdGh1Yi5jb20vSXJmYW5ha2JhcmkvZmFj
+ZS1yZWNvZ25pdGlvbikgfCAgQVBJIHVudHVrIG1lbmRldGVrc2kgd2FqYWgg
+ZGFsYW0gZ2FtYmFyLCBtZW5kYXBhdGthbiBVSUQgdW50dWsgY2VrIHNpbWls
+YXJpdHkoYmVyZ3VuYSB1bnR1ayBzaXN0ZW0gZmFjZSByZWNvZ25pdGlvbikg
+fCBgbm9gIHwgYFV0aWxpdGllc2AgfAp8IEhleGFtaW5hdGUgfCBbSGV4YW1p
+bmF0ZV0oaHR0cHM6Ly9naXRodWIuY29tL2hleGFtaW5hdGUpIHwgW0xpbmtd
+KGh0dHBzOi8vZ2l0aHViLmNvbS9oZXhhbWluYXRlKSB8IEhleGFNaW5hdGUg
+YXBpJ3MgdW50dWsgbWVuYW1iYWhrYW4gZWxlbWVudCBwYWRhIGFwcGxpY2F0
+aW9uIC8gYmFja2VuZCB5YW5nIGFuZGEgYnVhdCB8IGB5ZXNgIHwgYFV0aWxp
+dGllc2AgfAp8IFhlbmRpdCBBUEkgfCBYZW5kaXQgT2ZmaWNpYWwgfCBbTGlu
+a10oaHR0cHM6Ly9kZXZlbG9wZXJzLnhlbmRpdC5jby8pIHwgQVBJIEdhdGV3
+YXkgcmVzbWkgZGFyaSBYZW5kaXQgdW50dWsgbWVuZ2ludGVncmFzaWthbiBh
+cGxpa2FzaSBBbmRhIGRlbmdhbiBnYXRld2F5IHBlbWJheWFyYW4gWGVuZGl0
+IHwgYHllc2AgfCBgRmluYW5jaWFsYCB8CgoKIyMgRGFmdGFyIEFwcGxpY2F0
+aW9uCgp8IE5hbWEgQXBwICAgICAgICB8IERldmVsb3BlciB8IFVSTCB8IERl
+c2tyaXBzaSB8IGBDYXRlZ29yeWAgfAp8IC0tLS0tLS0tLS0tLS0tLSB8Oi0t
+LS0tLS0tLTp8Oi0tLTp8Oi0tLS0tLS0tLS18Oi0tLS0tLTp8IAp8IEF6a2Fn
+cmFtIHwgW2F6a2FkZXZdKGh0dHBzOi8vZ2l0aHViLmNvbS9hemthZGV2KSB8
+IFtMaW5rXShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldi9hemthZ3JhbSkg
+fCBBcHBsaWNhdGlvbiBUZWxlZ3JhbSBiZXJiYXNpcyBmbHV0dGVyIG1lbmdn
+dW5ha2FuIFt0ZGxpYl0oaHR0cHM6Ly9naXRodWIuY29tL3RkbGliL3RkKSwg
+U3VwcG9ydCBhdXRvbWF0aW9uIHVzZXJib3QgYW5kIGJvdCB8IFNvY2lhbC1N
+ZWRpYSB8CgoKIyMgRGFmdGFyIExpYnJhcnkKfCBOYW1hIExpYnJhcnkgwqAg
+wqAgwqAgIHwgRGV2ZWxvcGVyIHwgVVJMIHwgRGVza3JpcHNpIHwgYENhdGVn
+b3J5YCB8IAp8IC0tLS0tLS0tLS0tLS0tLSB8Oi0tLS0tLS0tLTp8Oi0tLTp8
+Oi0tLS0tLS0tLS18Oi0tLS0tLTp8IAp8IEFuZ2thLXRlcmJpbGFuZy1qcyB8
+IFtkZXZlbG9rYV0oaHR0cHM6Ly9naXRodWIuY29tL2RldmVsb2thKSB8IFtM
+aW5rXShodHRwczovL2dpdGh1Yi5jb20vZGV2ZWxva2EvYW5na2EtdGVyYmls
+YW5nLWpzKSB8IE1lbmdrb252ZXJzaSBhbmdrYSBrZSBkYWxhbSBiaWxhbmdh
+biBiYWhhc2EgSW5kb25lc2lhLiBNaXNhbG55YSBkYXJpIDEyMywgbWVuamFk
+aSBzZXJhdHVzIGR1YSBwdWx1aCB0aWdhLm58IGBVdGlsaXRpZXNgIHwKfCBB
+bmdrYS1ydXBpYWgtanMgfCBbZGV2ZWxva2FdKGh0dHBzOi8vZ2l0aHViLmNv
+bS9kZXZlbG9rYSkgfCBbTGlua10oaHR0cHM6Ly9naXRodWIuY29tL2RldmVs
+b2thL2FuZ2thLXJ1cGlhaC1qcykgfCBNZW5na29udmVyc2kgYW5na2Ega2Ug
+ZGFsYW0gZm9ybWF0IHBlbnVsaXNhbiBtYXRhIHVhbmcgcnVwaWFoIHwgYFV0
+aWxpdGllc2AgfAp8IEJyYWlubHkgU2NyYXBwZXIgfCBbZGVmcmluZHJdKGh0
+dHBzOi8vZ2l0aHViLmNvbS9kZWZyaW5kcikgfCBbTGlua10oaHR0cHM6Ly9n
+aXRodWIuY29tL2RlZnJpbmRyL2JyYWlubHktc2NyYXBlcikgfCBMaWJyYXJ5
+IFVudHVrIG1lbmNhcmkgamF3YWJhbiBzb2FsIGRhcmkgd2Vic2l0ZSBodHRw
+Oi8vd3d3LmJyYWlubHkuY28uaWQvIHwgYHNjcmFwZXJgIHwgCnwgSGV4YW1p
+bmF0ZSB8IFtoZXhhbWluYXRlXShodHRwczovL2dpdGh1Yi5jb20vaGV4YW1p
+bmF0ZSkgfCBbTGlua10oaHR0cHM6Ly9naXRodWIuY29tL0hleGFNaW5hdGUv
+SGV4YU1pbmF0ZS90cmVlL21haW4vbGlicmFyeS9oZXhhbWluYXRlKSB8IFVu
+dHVrIG1lbXBlcm11ZGFoIG1lbWJ1YXQgYXBwbGljYXRpb24gLyBiYWNrZW5k
+IHwgYHV0aWxpdGllc2AgfAp8IE5leHRnZW4gfCBbaGV4YW1pbmF0ZV0oaHR0
+cHM6Ly9naXRodWIuY29tL2hleGFtaW5hdGUpIHwgW0xpbmtdKGh0dHBzOi8v
+Z2l0aHViLmNvbS9IZXhhTWluYXRlL0hleGFNaW5hdGUvdHJlZS9tYWluL2xp
+YnJhcnkvbmV4dGdlbikgfCBVbnR1ayBtZW1idWF0IGFwcGxpY2F0aW9uIC8g
+Ym90IC8gdXNlcmJvdCBwYWRhIHBsYXRmb3JtIG5leHRnZW4gfCBgc29jaWFs
+LW1lZGlhYCB8IAp8IFRlbGVncmFtIENsaWVudCB8IFthemthZGV2XShodHRw
+czovL2dpdGh1Yi5jb20vYXprYWRldikgfCBbTGlua10oaHR0cHM6Ly9naXRo
+dWIuY29tL2F6a2FkZXYvdGVsZWdyYW1fY2xpZW50KSB8IExpYnJhcnkgVGVs
+ZWdyYW0gdW50dWsgbWVtYmFuZ3VuIGJvdCAvIHVzZXJib3QgLyBhcHBsaWNh
+dGlvbiBzdXBwb3J0IFt0ZGxpYl0oaHR0cHM6Ly9naXRodWIuY29tL3RkbGli
+L3RkKSBjcm9zcyBwbGF0Zm9ybSB8IFNvY2lhbC1NZWRpYSB8IAp8IFhlbmRp
+dCBVbm9mZmljaWFsIERhcnQgfCBbYXprYWRldl0oaHR0cHM6Ly9naXRodWIu
+Y29tL2F6a2FkZXYpIHwgW0xpbmtdKGh0dHBzOi8vZ2l0aHViLmNvbS9hemth
+ZGV2L3hlbmRpdCkgfCBVbnR1ayBtZW1wZXJtdWRhaCB0cmFuc2FjdGlvbiB4
+ZW5kaXQgaW5kb25lc2lhIHwgYHBheW1lbnRgIHwgCgoKIyMgRGFmdGFyIFJv
+Ym90CnwgTmFtYSBSb2JvdCDCoCDCoCDCoCAgfCBEZXZlbG9wZXIgfCBVUkwg
+fCBEZXNrcmlwc2kgfCBgcGxhdGZvcm1gIHwgCnwgLS0tLS0tLS0tLS0tLS0t
+IHw6LS0tLS0tLS0tOnw6LS0tOnw6LS0tLS0tLS0tLXw6LS0tLS0tOnwgCnwg
+QXprYSBVc2VyYm90IEluc3RhZ3JhbSB8IFtBemthZGV2XShodHRwczovL2dp
+dGh1Yi5jb20vYXprYWRldikgfCBbTGlua10oaHR0cHM6Ly9naXRodWIuY29t
+L2F6a2FkZXYvYXprYS11c2VyYm90LWluc3RhZ3JhbSkgfCBTaW1wbGUgVXNl
+cmJvdCBJbnN0YWdyYW0gdW50dWsgYmVsYWphciBtZW1idWF0IGJvdCBJbnN0
+YWdyYW0gfCBgaW5zdGFncmFtYCB8IAp8IEF6a2EgVXNlcmJvdCBUZWxlZ3Jh
+bSB8IFtBemthZGV2XShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldikgfCBb
+TGlua10oaHR0cHM6Ly9naXRodWIuY29tL2F6a2FkZXYvYXprYS11c2VyYm90
+LXRlbGVncmFtKSB8IFNpbXBsZSBVc2VyYm90IFRlbGVncmFtIHVudHVrIGJl
+bGFqYXIgbWVtYnVhdCBib3QgdGVsZWdyYW0gfCBgVGVsZWdyYW1gIHwgCnwg
+QXprYSBVc2VyYm90IFdoYXRzYXBwIHwgW0F6a2FkZXZdKGh0dHBzOi8vZ2l0
+aHViLmNvbS9hemthZGV2KSB8IFtMaW5rXShodHRwczovL2dpdGh1Yi5jb20v
+YXprYWRldi9hemthLXVzZXJib3Qtd2hhdHNhcHApIHwgU2ltcGxlIFVzZXJi
+b3QgV2hhdHNhcHAgdW50dWsgYmVsYWphciBtZW1idWF0IGJvdCBXaGF0c2Fw
+cCB8IGBXaGF0c2FwcGAgfCAKfCBGaWxlIFNoYXJpbmcgTWFuIHwgW21yaXNt
+YW5heml6XShodHRwczovL2dpdGh1Yi5jb20vbXJpc21hbmF6aXopIHwgW0xp
+bmtdKGh0dHBzOi8vZ2l0aHViLmNvbS9tcmlzbWFuYXppei9GaWxlLVNoYXJp
+bmctTWFuKSB8IEJvdCBUZWxlZ3JhbSB1bnR1ayBtZW55aW1wYW4gUG9zdGlu
+ZyBhdGF1IEZpbGUgeWFuZyBkYXBhdCBEaWFrc2VzIG1lbGFsdWkgTGluayBL
+aHVzdXMuIFNheWEgS2lyYSBJbmkgQWthbiBCZXJtYW5mYWF0IEJhZ2kgQmFu
+eWFrIE9yYW5nLi4gaW5ub2NlbnQuIHwgYFRlbGVncmFtYCB8IAoKCgojIyBL
+b250YWsKCkppa2EgYWRhIHlhbmcgaW5naW4gZGl0YW1iYWhrYW4gYXRhdSBk
+aWtvcmVrc2kgYmlzYSBiZXJrb21lbnRhciB2aWEgZml0dXIgW0lzc3Vlc10o
+aHR0cHM6Ly9naXRodWIuY29tL2Zhcml6ZG90aWQvREFGVEFSLUFQSS1MT0tB
+TC1JTkRPTkVTSUEvaXNzdWVzKSBBVEFVIGxhbmdzdW5nIGVkaXQgc2FqYSBu
+YW50aSBiaWFyIGRpZGlza3VzaWthbiB0ZXJsZWJpaCBkYWh1bHUuCgpIYXR1
+ciBOdWh1bi4gOikKCiMjIDpmaXJlOiBURVJJTUFLQVNJSCA6ZmlyZToKClRl
+cmltYWthc2loIHVudHVrIGthbGlhbiB5YW5nIHVkYWggaWt1dCBiZXIta29u
+dHJpYnVzaSEgOmhlYXJ0Ogo=
 
-Daftar Project ( api | github ) indonesia.
-
-
-
-## Daftar Isi 
-
-- [Daftar Api](#daftar-api)
-- [Daftar Application](#daftar-application)
-- [Daftar Library](#daftar-library)
-- [Daftar Robot](#daftar-robot)
-
-## Daftar Api
-
-| Nama Api        | Developer | URL | Deskripsi | `key` | `Category` |
-| --------------- |:---------:|:---:|:----------|:------:|:------:|
-| Face API | [Irfan Akbari Habibi](https://github.com/Irfanakbari) | [Link](https://github.com/Irfanakbari/face-recognition) |  API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) | `no` | `Utilities` |
-| Hexaminate | [Hexaminate](https://github.com/hexaminate) | [Link](https://github.com/hexaminate) | HexaMinate api's untuk menambahkan element pada application / backend yang anda buat | `yes` | `Utilities` |
-| Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `yes` | `Financial` |
-
-
-## Daftar Application
-
-| Nama App        | Developer | URL | Deskripsi | `Category` |
-| --------------- |:---------:|:---:|:----------|:------:| 
-| Azkagram | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azkagram) | Application Telegram berbasis flutter menggunakan [tdlib](https://github.com/tdlib/td), Support automation userbot and bot | Social-Media |
-
-
-## Daftar Library
-| Nama Library        | Developer | URL | Deskripsi | `Category` | 
-| --------------- |:---------:|:---:|:----------|:------:| 
-| Angka-terbilang-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-terbilang-js) | Mengkonversi angka ke dalam bilangan bahasa Indonesia. Misalnya dari 123, menjadi seratus dua puluh tiga.n| `Utilities` |
-| Angka-rupiah-js | [develoka](https://github.com/develoka) | [Link](https://github.com/develoka/angka-rupiah-js) | Mengkonversi angka ke dalam format penulisan mata uang rupiah | `Utilities` |
-| Brainly Scrapper | [defrindr](https://github.com/defrindr) | [Link](https://github.com/defrindr/brainly-scraper) | Library Untuk mencari jawaban soal dari website http://www.brainly.co.id/ | `scraper` | 
-| Hexaminate | [hexaminate](https://github.com/hexaminate) | [Link](https://github.com/HexaMinate/HexaMinate/tree/main/library/hexaminate) | Untuk mempermudah membuat application / backend | `utilities` |
-| Nextgen | [hexaminate](https://github.com/hexaminate) | [Link](https://github.com/HexaMinate/HexaMinate/tree/main/library/nextgen) | Untuk membuat application / bot / userbot pada platform nextgen | `social-media` | 
-| Telegram Client | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/telegram_client) | Library Telegram untuk membangun bot / userbot / application support [tdlib](https://github.com/tdlib/td) cross platform | Social-Media | 
-| Xendit Unofficial Dart | [azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/xendit) | Untuk mempermudah transaction xendit indonesia | `payment` | 
-
-
-## Daftar Robot
-| Nama Robot        | Developer | URL | Deskripsi | `platform` | 
-| --------------- |:---------:|:---:|:----------|:------:| 
-| Azka Userbot Instagram | [Azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azka-userbot-instagram) | Simple Userbot Instagram untuk belajar membuat bot Instagram | `instagram` | 
-| Azka Userbot Telegram | [Azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azka-userbot-telegram) | Simple Userbot Telegram untuk belajar membuat bot telegram | `Telegram` | 
-| Azka Userbot Whatsapp | [Azkadev](https://github.com/azkadev) | [Link](https://github.com/azkadev/azka-userbot-whatsapp) | Simple Userbot Whatsapp untuk belajar membuat bot Whatsapp | `Whatsapp` | 
-| File Sharing Man | [mrismanaziz](https://github.com/mrismanaziz) | [Link](https://github.com/mrismanaziz/File-Sharing-Man) | Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus. Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. innocent. | `Telegram` | 
-
-
-
-## Kontak
-
-Jika ada yang ingin ditambahkan atau dikoreksi bisa berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
-
-Hatur Nuhun. :)
-
-## :fire: TERIMAKASIH :fire:
-
-Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
